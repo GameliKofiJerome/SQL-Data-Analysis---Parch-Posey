@@ -19,19 +19,19 @@ The database consists of different tables;
 - web_events
 
 To create the database tables;
-1- Download zip file to preferred location on local/personal computer.
+1. Download zip file to preferred location on local/personal computer.
 
-2- Extract contents of zip file.
+2. Extract contents of zip file.
 
-3- Install Microsoft SQL Server Management Studio (preferred RDBMS for this project).
+3. Install Microsoft SQL Server Management Studio (preferred RDBMS for this project).
 
-4- Open application and click on the 'New Query' tab.
+4. Open application and click on the 'New Query' tab.
 
-5- In the new query tab, enter this SQL statement/code to create the parch and posey database `CREATE DATABASE parch_and_posey`.
+5. In the new query tab, enter this SQL statement/code to create the parch and posey database `CREATE DATABASE parch_and_posey`.
 
-6- After completing step 5 above, run the parch_and_posey_tables.sql script in Microsoft SQL Server Management Studio to create the tables, found in the [Database folder](https://github.com/GameliKofiJerome/SQL-Data-Analysis---Parch-Posey/blob/main/Database%20File/parch_and_posey_tables.sql).
+6. After completing step 5 above, run the parch_and_posey_tables.sql script in Microsoft SQL Server Management Studio to create the tables, found in the [Database folder](https://github.com/GameliKofiJerome/SQL-Data-Analysis---Parch-Posey/blob/main/Database%20File/parch_and_posey_tables.sql).
  
-7- Run the sql scripts in Microsft SQL Server Management Studio to see the results and outputs. You can also edit the queries to see determine the various outputs as it is a great way to also learn.
+7. Run the sql scripts in Microsft SQL Server Management Studio to see the results and outputs. You can also edit the queries to see determine the various outputs as it is a great way to also learn.
 
 ## Suggestion
 If you are new to SQL, I suggest running the sql scripts in this order to just a better grasp of the language.
